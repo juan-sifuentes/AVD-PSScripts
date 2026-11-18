@@ -25,4 +25,4 @@ Learn all about Windows 365 solution presents as an innovative disruptive techno
 ## For Windows 365 Scripts (for Healthcare)
 
 If you're looking for Windows 365 Scripts for Healthcare, we have another repo:
-[Windows365-PSScripts](https://github.com/Neckross/Windows365-PSScripts)
+[Windows365-PSScripts](https://github.com/juan-sifuentes/Windows365-PSScripts)
